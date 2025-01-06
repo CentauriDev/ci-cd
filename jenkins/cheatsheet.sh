@@ -1,0 +1,1 @@
+dockerrun--namemyjenkins1-dit-p8080:8080-p50000:50000-vjenkins_data:/var/jenkins_homejenkins/jenkins:2.60.3-alpine
